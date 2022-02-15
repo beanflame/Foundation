@@ -4,6 +4,7 @@ buildscript {
         maven { url 'https://jitpack.io' }
         gradlePluginPortal()
         mavenCentral()
+        
     }
     dependencies {
         classpath 'com.github.UnknownDomainGames:GradlePlugin:1.1'
